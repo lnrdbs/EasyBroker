@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyBrokerAPI", "EasyBrokerAPI\EasyBrokerAPI.csproj", "{FAB4D344-65E9-4260-9100-BED72567B06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestEasyBrokerAPI", "UnitTestEasyBrokerAPI\UnitTestEasyBrokerAPI.csproj", "{C226E10C-E11C-44B6-8E89-1DAD34978165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB4D344-65E9-4260-9100-BED72567B06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB4D344-65E9-4260-9100-BED72567B06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB4D344-65E9-4260-9100-BED72567B06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB4D344-65E9-4260-9100-BED72567B06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C226E10C-E11C-44B6-8E89-1DAD34978165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C226E10C-E11C-44B6-8E89-1DAD34978165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C226E10C-E11C-44B6-8E89-1DAD34978165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C226E10C-E11C-44B6-8E89-1DAD34978165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5966816D-D13B-44F7-81F8-4E9CECE5B8DF}
+	EndGlobalSection
+EndGlobal
